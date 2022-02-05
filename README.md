@@ -1,5 +1,5 @@
 # Quick Dir
-Quick operation of files and directories, and some toolkit.
+Quick operation of files and directories, and some toolkits.
 
 ## Installation
 https://apps.apple.com/app/id1607393976
